@@ -1,4 +1,7 @@
-# api documentation for  [qrcode-reader (v0.2.2)](https://github.com/edi9999/jsqrcode)  [![npm package](https://img.shields.io/npm/v/npmdoc-qrcode-reader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-qrcode-reader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-qrcode-reader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-qrcode-reader)
+# npmdoc-qrcode-reader
+
+#### basic api documentation for  [qrcode-reader (v0.2.2)](https://github.com/edi9999/jsqrcode)  [![npm package](https://img.shields.io/npm/v/npmdoc-qrcode-reader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-qrcode-reader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-qrcode-reader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-qrcode-reader)
+
 #### fork of lazarsoft's jsqrcode for node
 
 [![NPM](https://nodei.co/npm/qrcode-reader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/qrcode-reader)
@@ -64,7 +67,8 @@
         "test": "mocha",
         "watch": "rollup -c -w"
     },
-    "version": "0.2.2"
+    "version": "0.2.2",
+    "bin": {}
 }
 ```
 
